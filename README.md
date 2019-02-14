@@ -1,6 +1,6 @@
 # chat_online
 
-A new Flutter application.
+Chat online com algumas limitações!
 
 ## Getting Started
 
