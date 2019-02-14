@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "768853612458",
+    "firebase_url": "https://chatonlineflutter-ae506.firebaseio.com",
+    "project_id": "chatonlineflutter-ae506",
+    "storage_bucket": "chatonlineflutter-ae506.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768853612458:android:0d13fdf89ec55100",
+        "android_client_info": {
+          "package_name": "br.com.gabrielmayer.chatonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768853612458-v30eh3r3tf3adtlqifhbqti3l7cups9u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.gabrielmayer.chatonline",
+            "certificate_hash": "8f41ea7ddf677b8b94a7cbff7f92da850b928da7"
+          }
+        },
+        {
+          "client_id": "768853612458-n6hl8sftpq7bvik877mbv4871ir4u52p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHuTco7Jinep3BHJgfrHcLcCVczWgXUHE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768853612458-n6hl8sftpq7bvik877mbv4871ir4u52p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
